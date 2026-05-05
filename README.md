@@ -2,7 +2,7 @@
 
 🎓 Master of IT in Business (AI Track) @ Singapore Management University  
 📍 Singapore | VN  
-🔍 Seeking Data Science/ AI internship/Full-time job opportunities
+🔍 Seeking Data Science/ AI internship/full-time job opportunities
 
 ---
 
@@ -30,7 +30,7 @@ projects in Visual Analytics, Machine Learning, and Natural Language Processing.
 
 | Project | Description | Tech |
 |---|---|---|
-| [ISSS608-VAA](https://github.com/haunk/ISSS608-VAA) | Interactive visual analytics website — weekly exercises + customer segmentation project | R, Quarto, Vercel |
+| [ISSS608-VAA](https://github.com/haunk/ISSS608-VAA) | Interactive visual analytics website — weekly hands-on exercises, big group project | R, Quarto, Vercel |
 | Healthcare Insurance Prediction | XGBoost/Random Forest/Decision Tree models on 228K insurance records for actuarial pricing | Python, scikit-learn |
 
 ---
